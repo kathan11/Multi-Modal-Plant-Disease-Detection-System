@@ -11,9 +11,9 @@ This project contains deep learning models for classifying Jamun leaf diseases u
 
 ## 📡 Data Collection
 
-- **Sensor deployment**: DA-IICT campus (CEP Jamun field), March–December 2023.
-- **Sensor frequency**: Every 30 minutes.
-- **Leaf images**: Manually collected and annotated in the field.
+- **Sensor Deployment**: DA-IICT campus (CEP Jamun field), March–December 2023
+- **Sampling Frequency**: Every 30 minutes
+- **Leaf Images**: Manually collected and annotated in the field
 
 ## 🧠 Model Performance
 
@@ -23,4 +23,5 @@ This project contains deep learning models for classifying Jamun leaf diseases u
 | GRU + MobileNetV2 | 94.64%        |
 | GRU + DenseNet121 | 85.00%        |
 
----
+> ⚠️ This project is part of academic research and is shared for educational purposes only.  
+> Please do not copy or reproduce any part of this work without permission.
